@@ -1,8 +1,8 @@
 # Hi, I’m Chiara 👋🏼😊
 
-- 👩🏻‍💻 I am an **information bioengineer**, blending expertise in **information technology** and **computer science** tailored for **biomedical applications**. 
+- 👩🏻‍💻 I am an **biomedical engineer**, blending expertise in **information technology** and **computer science** tailored for **biomedical applications**. 
 - 🩺 I am motivated to deliver innovative paradigms that realize the potential of **AI in healthcare**. 
-- 🧠 I'm currently working as a researcher in **computational neuroscience**, harnessing the power of models to deepen our **understanding of the brain** and develop **enhanced treatment techniques**. 
+- 🧠 I'm currently working as a researcher in **computational neuroscience for vision**. My goal is to harness computational models to deepen our understanding of the **biological mechanics underlying perception** and develop enhanced **treatment techniques**. 
 
 
 
